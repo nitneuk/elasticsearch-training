@@ -1,0 +1,9 @@
+{
+    "name": "nitneuk/elasticsearch-training",
+    "type": "project",
+    "require": {
+        "fakerphp/faker": "^1.14",
+        "symfony/serializer": "^5.2",
+        "ruflin/elastica": "^7.1"
+    }
+}
